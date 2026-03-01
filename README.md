@@ -1,1 +1,1 @@
-# PersonalRhythmIntelligentSystem
+# Personal Rhythm Intelligent System
